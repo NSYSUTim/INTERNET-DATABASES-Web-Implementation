@@ -1,2 +1,2 @@
 # INTERNET-DATABASES (Web Implementation)
-This is the assignment for the library web system simulation in this course.
+This is a project for the library web system simulation in this course, built using ASP.NET in Visual Studio.
